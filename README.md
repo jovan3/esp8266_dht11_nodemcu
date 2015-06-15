@@ -10,6 +10,3 @@ status).
 - The DHTxx library for esp8266
 - Initialization script - init.lua
 
-TODO:
-
-- Simple diagram that explains the wiring of the components
